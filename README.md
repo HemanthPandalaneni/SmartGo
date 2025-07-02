@@ -88,4 +88,4 @@ Open browser and go to: [http://localhost:3000](http://localhost:3000)
 
 ## 👨‍💻 Developed by
 
-**Hemanth Pandalaneni**
+Our Team 
